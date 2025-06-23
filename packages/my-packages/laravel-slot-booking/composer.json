@@ -17,7 +17,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Khadija\\LaravelSlotBooking\\LaravelSlotBookingServiceProvider"
+                "Khadija\\LaravelSlotBooking\\SlotBookingServiceProvider"
             ]
         }
     }
